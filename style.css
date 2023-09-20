@@ -1,0 +1,33 @@
+
+body{
+   background-color:#00004e !important;
+   width: 100vw;
+   height: 100vh;
+   color: aliceblue !important;
+    
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0 4px;
+}
+.navbar{
+    background-color:#00004e ;
+   
+}
+.fontcolor{
+    color: aliceblue !important;
+}
+button{
+    border-radius: 5px !important;
+}
+button:hover{
+
+    color: rgb(115, 174, 224);
+
+}
+a{
+    text-decoration: none;
+}
